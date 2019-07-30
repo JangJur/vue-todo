@@ -21,6 +21,6 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ## Recipe
 
 - [x] Make Project
-- [ ] Make Components
+- [x] Make Components
 - [ ] Components Function
 - [ ] Using props
