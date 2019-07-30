@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <TodoHeader></TodoHeader>
+    <TodoHeader ></TodoHeader>
     <TodoInput></TodoInput>
     <TodoList></TodoList>
     <TodoFooter></TodoFooter>
