@@ -1,6 +1,6 @@
 # vue-todo
 
-> A Vue.js project
+> A Vue.js CRUD project
 
 ## Build Setup
 
@@ -22,5 +22,5 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 - [x] Make Project
 - [x] Make Components
-- [ ] Components Function
+- [x] Components Function
 - [ ] Using props
