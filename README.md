@@ -24,3 +24,4 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 - [x] Make Components
 - [x] Components Function
 - [x] Using props
+- [x] Vue Animation
