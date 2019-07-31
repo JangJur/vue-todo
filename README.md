@@ -23,4 +23,4 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 - [x] Make Project
 - [x] Make Components
 - [x] Components Function
-- [ ] Using props
+- [x] Using props
